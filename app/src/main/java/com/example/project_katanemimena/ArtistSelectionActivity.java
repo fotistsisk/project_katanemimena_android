@@ -30,34 +30,9 @@ public class ArtistSelectionActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
         ArrayList<String> artists = new ArrayList<String>();
-        artists.add("Ariana Grande");
-        artists.add("Billie Eilish");
-        artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");
-        artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");artists.add("Ariana Grande");
-        artists.add("Billie Eilish");
+        //artists.add("Ariana Grande");
+        //artists.add("Billie Eilish");
+        
 
 
 
